@@ -1,0 +1,1 @@
+<div className=" text-[#1e2570] border-t-[#212121f3] border-2 p-4 md:flex justify-around md:items-center max-w-1280 hidden" >
