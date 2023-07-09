@@ -18,7 +18,7 @@ function FAQPage(){
 
     <p className="text-[3rem] md:text-[4rem] lg:text-[5rem] xl-text-[6rem] font-bold ">FAQs</p>
     <p className="text-2xl text-left">Find answers to your most common dental inquiries here.</p>
-    <div className="my-5 flex flex-row gap-5">
+    <div className="my-5 flex flex-row gap-5 flex-wrap">
             <button class="bg-[#c61f5d] text-lg opacity-80 hover:opacity-100 text-white font-bold py-2 px-4 rounded-lg shadow hover:shadow-md">
         SPEAK TO OUR TEAM</button>
         <button class="bg-[#c61f5d] text-lg opacity-80 hover:opacity-100 text-white font-bold py-2 px-4 rounded-lg shadow hover:shadow-md">

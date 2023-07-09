@@ -11,7 +11,7 @@ function App() {
   return (
     <div >
      <Navbar></Navbar>
-<QuestionFAQ></QuestionFAQ>
+     <FAQPage></FAQPage>
 
      <br></br>
      <br></br>
